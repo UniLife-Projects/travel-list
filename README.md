@@ -1,10 +1,10 @@
-# [Travel-List App](https://uche-jordy-travellist.netlify.app/)
+# [Travel-List App 🧳](https://uche-jordy-travellist.netlify.app/)
 
 ## Introduction
 
 Welcome to the [Travel-List App](https://uche-jordy-travellist.netlify.app/), a handy tool designed to assist travelers in packing their items efficiently. This application ensures you never forget anything important for your travels by allowing you to add, retrieve, and remove items on your packing list.
 
-## Features
+## Features 🛩️
 
 - **Item Management**: Easily add, retrieve, and remove items from your travel list.
 - **Count Tracking**: Keeps track of the number of each item.
