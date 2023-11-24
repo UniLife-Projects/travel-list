@@ -58,5 +58,3 @@ Interested in contributing to the Travel-List App? We welcome contributions from
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-_Note: This README is designed to be appealing and informative for both software engineers and recruiters, focusing on the app's utility, technical setup, and contribution opportunities._
